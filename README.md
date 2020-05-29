@@ -26,6 +26,6 @@ The second part is processing the texts. We tokenize each word and encode them w
 
 The model is a TextCNN with three convolutional layers in parallel, applying a maxpooling for each one, concatenating them and the last sigmoid layer.
 
-<img src="images/model.jpeg">
+<img src="images/model2.jpeg">
 
 
