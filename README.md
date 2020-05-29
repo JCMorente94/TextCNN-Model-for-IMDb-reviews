@@ -26,7 +26,7 @@ The second part is processing the texts. We tokenize each word and encode them w
 
 The model is a TextCNN, the first layer is a embedding layer using glove, three convolutional layers in parallel, applying a maxpooling for each one, concatenating them and the last sigmoid layer. The output is a number between 0 and 1, 0 is for negative and 1 is for positive.
 
-<img src="images/model.jpeg">
+<img src="images/model2.jpeg">
 
 ## Results
 
