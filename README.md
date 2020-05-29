@@ -37,7 +37,7 @@ The model has an accuracy of 92%.
 From the 2500 reviews it classified well 2303.
 
 
-## Bonus
+## IMDB API
 
 I made a program for check reviews of movies from IMDB using an API.
 You can look for a movie, see how many reviews it has and check if they are positives or negatives using the model.
