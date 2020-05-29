@@ -1,7 +1,7 @@
 # Natural Language Processing - IMBd Reviews classification.
 
 This is a project about natural language processing for classify reviews.
-I created a supervised learning model that categorize reviews into positive or negative.
+I used a supervised learning model that categorize reviews into positive or negative.
 
 ## Dataset
 
