@@ -28,6 +28,10 @@ The model is a TextCNN, the first layer is a embedding layer using glove, three 
 
 <img src="images/model2.jpeg">
 
+### The convolutional layer
+
+<img src="images/neural.gif">
+
 ## Results
 
 I used the test set for evaluating the model, It is a set of 2500 reviews that the model didn't see before.
