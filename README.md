@@ -31,6 +31,8 @@ The model is a TextCNN, the first layer is a embedding layer using glove, three 
 
 ### The convolutional layer
 
+Each word has a vector representation from the Glove embedding, for each phrase we obtain a vector that tell us how important the word are in the sentence.
+
 <img src="images/neural.gif">
 
 ## Results
