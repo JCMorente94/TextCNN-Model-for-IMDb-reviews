@@ -16,7 +16,7 @@ In first place I remove all puntuaction and we made the lemmatization of the tex
 
 Lemmatization is the process of grouping together the inflected forms of a word, reducing the number of different words in the text, withoug losing the context.
 
-<img src="images/2.jpg">
+<img src="images/lemma.png">
 
 ## Processing
 
