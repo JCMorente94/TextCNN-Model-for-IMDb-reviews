@@ -22,7 +22,7 @@ Lemmatization is the process of grouping together the inflected forms of a word,
 
 The second part is processing the texts. We tokenize each word and encode them with a unique number.
 
-<img src="images/1.png">
+<img src="images/processing.png">
 
 ## Model
 
