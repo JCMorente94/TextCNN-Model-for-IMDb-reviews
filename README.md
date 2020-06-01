@@ -1,4 +1,4 @@
-# Natural Language Processing - IMBd Reviews classification.
+# Natural Language Processing - IMDb Reviews classification.
 
 This is a project about natural language processing for classify reviews.
 
@@ -6,7 +6,7 @@ The objective of this project is create a supervised learning model that categor
 
 ## Dataset
 
-The dataset is a list of 50.000 IMbd reviews from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews.
+The dataset is a list of 50.000 IMDb reviews from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews.
 
 Each review is classified by positive or negative. There are 25.000 positives and 25.000 negatives.
 I divide the dataset into a training and test set, using the training set for training the model and the test set for evaluate how good it does.
@@ -46,9 +46,9 @@ The model has an accuracy of 92%.
 From the 2500 reviews it classified well 2303.
 
 
-## IMDB API
+## IMDb API
 
-I made a program for check reviews of movies from IMDB using an API.
+I made a program for check reviews of movies from IMDb using an API.
 You can look for a movie, see how many reviews it has and check if they are positives or negatives using the model.
 
 <img src="images/review.png">
